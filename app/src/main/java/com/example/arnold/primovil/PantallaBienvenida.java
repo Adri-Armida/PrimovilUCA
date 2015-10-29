@@ -12,6 +12,7 @@ import android.view.MenuItem;
 public class PantallaBienvenida extends AppCompatActivity {
 
     int i=5;
+    float d = 2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

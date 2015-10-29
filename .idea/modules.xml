@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PrimovilUCA.iml" filepath="$PROJECT_DIR$/PrimovilUCA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primovil.iml" filepath="$PROJECT_DIR$/Primovil.iml" />
     </modules>
   </component>
 </project>
